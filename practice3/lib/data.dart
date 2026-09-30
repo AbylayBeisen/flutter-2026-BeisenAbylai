@@ -1,0 +1,12 @@
+const String myName = 'Abylai Beisen';
+const String myUniversity = 'Kazakh-British Technical University';
+
+const List<({String label, String value})> facts = [
+  (label: 'Course', value: '4'),
+  (label: 'Group', value: 'CS-2426'),
+  (label: 'Subject', value: 'Mobile Development'),
+  (label: 'Favourite widget', value: 'Padding'),
+];
+
+
+//flutter run -v
